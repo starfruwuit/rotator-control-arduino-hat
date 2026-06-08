@@ -1830,6 +1830,12 @@
 		)
 	)
 	(junction
+		(at 153.67 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "018f44ae-4b0d-4c25-9942-b97bca12c88a")
+	)
+	(junction
 		(at 177.8 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1840,6 +1846,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5183768d-3382-4674-81a3-845d4dc648b6")
+	)
+	(junction
+		(at 161.29 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "594ae2bd-9a4b-4eff-912f-e9d87eaa2293")
 	)
 	(junction
 		(at 198.12 99.06)
@@ -1871,6 +1883,16 @@
 	)
 	(wire
 		(pts
+			(xy 138.43 40.64) (xy 138.43 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0649ca9b-fc22-4778-a403-130cb96fc5c5")
+	)
+	(wire
+		(pts
 			(xy 100.33 102.87) (xy 119.38 102.87)
 		)
 		(stroke
@@ -1881,7 +1903,17 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 100.33) (xy 119.38 52.07)
+			(xy 153.67 60.96) (xy 153.67 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d66a2be-5b72-4a16-89c0-85965af649af")
+	)
+	(wire
+		(pts
+			(xy 119.38 100.33) (xy 119.38 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1908,6 +1940,26 @@
 			(type default)
 		)
 		(uuid "13562f70-8425-466d-8163-6d846c9baaea")
+	)
+	(wire
+		(pts
+			(xy 137.16 53.34) (xy 137.16 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1429a82d-84a2-4597-958a-9fb0fe071283")
+	)
+	(wire
+		(pts
+			(xy 161.29 30.48) (xy 161.29 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18fb4e64-e747-47c2-9cf3-ee8462f6b8f4")
 	)
 	(wire
 		(pts
@@ -1961,6 +2013,16 @@
 	)
 	(wire
 		(pts
+			(xy 153.67 52.07) (xy 153.67 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34047c26-07bc-4227-ad2f-15ba2dd596ff")
+	)
+	(wire
+		(pts
 			(xy 189.23 68.58) (xy 198.12 68.58)
 		)
 		(stroke
@@ -1968,6 +2030,26 @@
 			(type default)
 		)
 		(uuid "3b29b44b-ab3e-4714-814a-c3f1d7f3def4")
+	)
+	(wire
+		(pts
+			(xy 137.16 52.07) (xy 153.67 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f2aa40a-6af1-4860-83c0-0e9eab63c9bd")
+	)
+	(wire
+		(pts
+			(xy 177.8 30.48) (xy 177.8 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41246801-54cf-4c17-b7b8-d59ab0ef1abf")
 	)
 	(wire
 		(pts
@@ -2091,6 +2173,16 @@
 	)
 	(wire
 		(pts
+			(xy 137.16 63.5) (xy 137.16 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "761c5f55-d2d3-4d67-88cb-3e20212741da")
+	)
+	(wire
+		(pts
 			(xy 100.33 95.25) (xy 105.41 95.25)
 		)
 		(stroke
@@ -2108,6 +2200,16 @@
 			(type default)
 		)
 		(uuid "79ba5814-3e4e-4f28-9c4f-f4643cb943a8")
+	)
+	(wire
+		(pts
+			(xy 168.91 58.42) (xy 198.12 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "849e192e-db34-4746-b8ca-eeb9588f6b50")
 	)
 	(wire
 		(pts
@@ -2148,6 +2250,26 @@
 			(type default)
 		)
 		(uuid "9d27e5d9-18d4-490d-a353-9c5a20196d76")
+	)
+	(wire
+		(pts
+			(xy 138.43 30.48) (xy 161.29 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1376bcd-2086-4c01-bf38-3f679cb06fec")
+	)
+	(wire
+		(pts
+			(xy 127 58.42) (xy 129.54 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a39a046a-d354-4205-8957-e42d407fc808")
 	)
 	(wire
 		(pts
@@ -2311,6 +2433,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 52.07) (xy 168.91 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf34b2ac-adaa-4547-a8b0-c7f9945d6436")
+	)
+	(wire
+		(pts
 			(xy 105.41 21.59) (xy 105.41 78.74)
 		)
 		(stroke
@@ -2318,6 +2450,26 @@
 			(type default)
 		)
 		(uuid "dd4b1709-98eb-4e7c-995c-6d07d1aa8c22")
+	)
+	(wire
+		(pts
+			(xy 161.29 40.64) (xy 161.29 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e30042ea-fa10-4a2b-8541-2b0d243a13a1")
+	)
+	(wire
+		(pts
+			(xy 153.67 52.07) (xy 168.91 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed6b7ae2-825b-4619-9ad6-3a77c0eea23c")
 	)
 	(wire
 		(pts
@@ -2341,6 +2493,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 30.48) (xy 177.8 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f12ff87c-a145-4cd0-810c-5c650164857f")
+	)
+	(wire
+		(pts
 			(xy 165.1 66.04) (xy 161.29 66.04)
 		)
 		(stroke
@@ -2348,6 +2510,16 @@
 			(type default)
 		)
 		(uuid "f4e998b6-ad78-4799-8f23-90092ca4a720")
+	)
+	(wire
+		(pts
+			(xy 177.8 60.96) (xy 198.12 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4fa524c-8959-465e-95fe-a858dc464005")
 	)
 	(symbol
 		(lib_id "Device:R_US")
@@ -2418,35 +2590,34 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_US")
-		(at 175.26 138.43 0)
+		(lib_id "power:Earth")
+		(at 153.67 72.39 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "113b0096-01a5-44e3-b9bb-0a70a2ce970b")
-		(property "Reference" "C7"
-			(at 179.07 137.4139 0)
+		(uuid "1427078f-f133-4785-8c01-5b772507b5c8")
+		(property "Reference" "#PWR011"
+			(at 153.67 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Value" "C_US"
-			(at 179.07 139.9539 0)
+		(property "Value" "Earth"
+			(at 153.67 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 175.26 138.43 0)
+			(at 153.67 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2454,8 +2625,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 175.26 138.43 0)
+		(property "Datasheet" "~"
+			(at 153.67 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2463,8 +2634,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "capacitor, US symbol"
-			(at 175.26 138.43 0)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 153.67 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2473,15 +2644,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "e0eccb8c-5ad8-4bdf-b061-19c3fec623a8")
-		)
-		(pin "2"
-			(uuid "149b8d6d-c01e-42d5-a2aa-8fd8129d8513")
+			(uuid "a9071ffa-cce0-446b-b187-ee4b95737c30")
 		)
 		(instances
 			(project "arduino-hat"
 				(path "/73f65524-077b-4ce3-ad47-a8c2641128ee"
-					(reference "C7")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -2489,7 +2657,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:MMBT2222A")
-		(at 163.83 41.91 0)
+		(at 134.62 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2498,7 +2666,7 @@
 		(fields_autoplaced yes)
 		(uuid "17fa3eb0-6a77-4826-ad90-74cac89c18f5")
 		(property "Reference" "Q4"
-			(at 168.91 40.6399 0)
+			(at 139.7 57.1499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2507,7 +2675,7 @@
 			)
 		)
 		(property "Value" "MMBT2222A"
-			(at 168.91 43.1799 0)
+			(at 139.7 59.6899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2516,7 +2684,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 168.91 43.815 0)
+			(at 139.7 60.325 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2527,7 +2695,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/MMBT2222A.pdf"
-			(at 163.83 41.91 0)
+			(at 134.62 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2537,7 +2705,7 @@
 			)
 		)
 		(property "Description" "600mA Ic, 40V Vce, NPN Transistor, SOT-23"
-			(at 163.83 41.91 0)
+			(at 134.62 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2920,7 +3088,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_US"
+		(property "Value" "0.01"
 			(at 181.61 76.4539 0)
 			(effects
 				(font
@@ -3110,6 +3278,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:Earth")
+		(at 137.16 72.39 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5544ddab-712f-4500-a8be-78547d36c90a")
+		(property "Reference" "#PWR010"
+			(at 137.16 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "Earth"
+			(at 137.16 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 137.16 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 137.16 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a9071ffa-cce0-446b-b187-ee4b95737c30")
+		)
+		(instances
+			(project "arduino-hat"
+				(path "/73f65524-077b-4ce3-ad47-a8c2641128ee"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 123.19 35.56 90)
 		(unit 1)
@@ -3172,76 +3406,6 @@
 			(project "arduino-hat"
 				(path "/73f65524-077b-4ce3-ad47-a8c2641128ee"
 					(reference "R6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_US")
-		(at 160.02 138.43 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6a77fe63-826e-426e-9cc2-b6c86ac15270")
-		(property "Reference" "C6"
-			(at 163.83 137.4139 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C_US"
-			(at 163.83 139.9539 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 160.02 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 160.02 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "capacitor, US symbol"
-			(at 160.02 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e0eccb8c-5ad8-4bdf-b061-19c3fec623a8")
-		)
-		(pin "2"
-			(uuid "149b8d6d-c01e-42d5-a2aa-8fd8129d8513")
-		)
-		(instances
-			(project "arduino-hat"
-				(path "/73f65524-077b-4ce3-ad47-a8c2641128ee"
-					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -3687,7 +3851,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_US"
+		(property "Value" "0.01"
 			(at 168.91 76.4539 0)
 			(effects
 				(font
@@ -3724,10 +3888,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "e0eccb8c-5ad8-4bdf-b061-19c3fec623a8")
+			(uuid "e0eccb8c-5ad8-4bdf-b061-19c3fec623aa")
 		)
 		(pin "2"
-			(uuid "149b8d6d-c01e-42d5-a2aa-8fd8129d8513")
+			(uuid "149b8d6d-c01e-42d5-a2aa-8fd8129d8515")
 		)
 		(instances
 			(project "arduino-hat"
@@ -3809,6 +3973,76 @@
 			(project "arduino-hat"
 				(path "/73f65524-077b-4ce3-ad47-a8c2641128ee"
 					(reference "Q3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_US")
+		(at 161.29 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "852f0d05-af1f-4f10-96bc-1b2283b78006")
+		(property "Reference" "C8"
+			(at 165.1 35.8139 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.01"
+			(at 165.1 38.3539 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.29 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "capacitor, US symbol"
+			(at 161.29 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "71dfff73-6c98-478b-974a-f7a1402797b4")
+		)
+		(pin "1"
+			(uuid "4061a467-ec45-4964-9f88-48bfede55d72")
+		)
+		(instances
+			(project "arduino-hat"
+				(path "/73f65524-077b-4ce3-ad47-a8c2641128ee"
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -4092,6 +4326,208 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
+		(at 161.29 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9c4e9bda-8a90-403a-b277-0067de35324f")
+		(property "Reference" "#PWR012"
+			(at 161.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "Earth"
+			(at 161.29 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.29 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 161.29 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 161.29 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a9071ffa-cce0-446b-b187-ee4b95737c30")
+		)
+		(instances
+			(project "arduino-hat"
+				(path "/73f65524-077b-4ce3-ad47-a8c2641128ee"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:Earth")
+		(at 138.43 44.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a140dc78-a593-4813-926a-200aedda6c87")
+		(property "Reference" "#PWR013"
+			(at 138.43 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "Earth"
+			(at 138.43 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.43 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 138.43 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a9071ffa-cce0-446b-b187-ee4b95737c30")
+		)
+		(instances
+			(project "arduino-hat"
+				(path "/73f65524-077b-4ce3-ad47-a8c2641128ee"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_US")
+		(at 153.67 57.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aaaa73c9-0282-48fd-83ce-d38e71b506f2")
+		(property "Reference" "C9"
+			(at 157.48 56.1339 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.01"
+			(at 157.48 58.6739 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.67 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "capacitor, US symbol"
+			(at 153.67 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "71dfff73-6c98-478b-974a-f7a1402797b4")
+		)
+		(pin "1"
+			(uuid "4061a467-ec45-4964-9f88-48bfede55d72")
+		)
+		(instances
+			(project "arduino-hat"
+				(path "/73f65524-077b-4ce3-ad47-a8c2641128ee"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:Earth")
 		(at 177.8 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4228,7 +4664,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 123.19 52.07 90)
+		(at 123.19 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4237,15 +4673,15 @@
 		(fields_autoplaced yes)
 		(uuid "d769a814-6359-42e8-98e4-203393d8864d")
 		(property "Reference" "R7"
-			(at 123.19 45.72 90)
+			(at 123.19 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "R_US"
-			(at 123.19 48.26 90)
+		(property "Value" "1k"
+			(at 123.19 54.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4253,7 +4689,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 123.444 51.054 90)
+			(at 123.444 57.404 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4262,7 +4698,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 123.19 52.07 0)
+			(at 123.19 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4271,7 +4707,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 123.19 52.07 0)
+			(at 123.19 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
