@@ -505,7 +505,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "./",
-      "plot": "",
+      "plot": "../arduino-hat-gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
