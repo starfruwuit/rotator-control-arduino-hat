@@ -3592,14 +3592,14 @@
 			)
 		)
 	)
-	(footprint "LED_SMD:LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder"
+	(footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "af790ce9-425e-4866-8767-e705a8e90a59")
 		(at 174 97.5)
-		(descr "LED SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
+		(descr "LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D1"
-			(at 0 -2.28 0)
+			(at 0 -1.83 0)
 			(layer "F.SilkS")
 			(uuid "75785dc5-031f-4bee-b81f-7c1d375f1872")
 			(effects
@@ -3610,7 +3610,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 0 2.28 0)
+			(at 0 1.83 0)
 			(layer "F.Fab")
 			(uuid "55acbf3d-3ce4-4f0d-b570-2f67e4d816ee")
 			(effects
@@ -3649,7 +3649,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d9a1e4bd-a5b1-4b28-a164-38c1b838428b")
+			(uuid "b02e2580-0234-4a53-b63f-e8278ef482b0")
 			(effects
 				(font
 					(size 1 1)
@@ -3663,95 +3663,95 @@
 		(sheetfile "arduino-hat.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -2.46 -1.585)
-			(end -2.46 1.585)
+			(start -2.46 -1.135)
+			(end -2.46 1.135)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3706690d-9c73-4da9-8f26-e28d4e0dfab7")
+			(uuid "c6b5da25-e3c4-4d8e-b52e-eea2dda63f25")
 		)
 		(fp_line
-			(start -2.46 1.585)
-			(end 1.6 1.585)
+			(start -2.46 1.135)
+			(end 1.6 1.135)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d530e1ec-b653-4b1d-92fc-e16c995ed8d9")
+			(uuid "a1ba8eed-eccd-407b-8d5e-dd62e08dc3b6")
 		)
 		(fp_line
-			(start 1.6 -1.585)
-			(end -2.46 -1.585)
+			(start 1.6 -1.135)
+			(end -2.46 -1.135)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ac588dd5-36c8-4ed2-895c-e4c82c6e5ce8")
+			(uuid "c30cbc36-1b7c-499c-bf1b-84e8fb2da5e2")
 		)
 		(fp_rect
-			(start -2.45 -1.58)
-			(end 2.45 1.58)
+			(start -2.45 -1.13)
+			(end 2.45 1.13)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "25609476-6d38-432b-8f3e-b65946c0223a")
+			(uuid "dee75e14-86fd-48e2-a5fa-5546321fd390")
 		)
 		(fp_line
-			(start -1.6 -0.625)
-			(end -1.6 1.25)
+			(start -1.6 -0.4)
+			(end -1.6 0.8)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "77e021d1-2483-406a-b8bf-e585fa932b67")
+			(uuid "aee4dbba-7563-4467-9f01-a495afb74e9d")
 		)
 		(fp_line
-			(start -1.6 1.25)
-			(end 1.6 1.25)
+			(start -1.6 0.8)
+			(end 1.6 0.8)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "dac9f8ca-51c4-44f7-81db-68f78c0a9a07")
+			(uuid "4bc26ac9-4af9-4754-857b-e20c21c10870")
 		)
 		(fp_line
-			(start -0.975 -1.25)
-			(end -1.6 -0.625)
+			(start -1.2 -0.8)
+			(end -1.6 -0.4)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "cf5f57e8-643d-4dc0-893f-3cca9373e4eb")
+			(uuid "10a5868f-07f8-43d0-9366-e425bb044799")
 		)
 		(fp_line
-			(start 1.6 -1.25)
-			(end -0.975 -1.25)
+			(start 1.6 -0.8)
+			(end -1.2 -0.8)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "d027d41d-e7c0-4d76-b012-51895aadbbb7")
+			(uuid "9ce8579e-bb44-4e91-8b75-d4d523df86b6")
 		)
 		(fp_line
-			(start 1.6 1.25)
-			(end 1.6 -1.25)
+			(start 1.6 0.8)
+			(end 1.6 -0.8)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e1b10c20-3fd6-49d0-8a80-71d081eb52cd")
+			(uuid "ea51eefd-62e7-4079-8b81-65fc62b9b22f")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -3766,48 +3766,26 @@
 		)
 		(pad "1" smd roundrect
 			(at -1.4875 0)
-			(size 1.425 2.65)
+			(size 1.425 1.75)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.175439)
 			(net 1 "Earth")
 			(pinfunction "K")
 			(pintype "passive")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curved_edges no)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
 			(uuid "7022f29f-6b1e-4b16-8282-468b560a3c35")
 		)
 		(pad "2" smd roundrect
 			(at 1.4875 0)
-			(size 1.425 2.65)
+			(size 1.425 1.75)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.175439)
 			(net 93 "Net-(D1-A)")
 			(pinfunction "A")
 			(pintype "passive")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curved_edges no)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
 			(uuid "67e40360-a68d-446c-8a65-0c3a0dd5591b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1210_3225Metric.step"
+		(model "${KICAD9_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6822,7 +6800,7 @@
 		(uuid "0af52585-cf9e-0cec-3404-1c698774f402")
 		(name "$teardrop_padvia$")
 		(hatch none 0.1)
-		(priority 30011)
+		(priority 30008)
 		(attr
 			(teardrop
 				(type padvia)
@@ -6940,7 +6918,7 @@
 		(uuid "283d8bdf-3bb9-0378-0b47-997740ff19b2")
 		(name "$teardrop_padvia$")
 		(hatch none 0.1)
-		(priority 30008)
+		(priority 30013)
 		(attr
 			(teardrop
 				(type padvia)
@@ -6979,7 +6957,7 @@
 		(uuid "2ca4b41a-698f-039b-1fcc-bbfb8c0ecbb0")
 		(name "$teardrop_padvia$")
 		(hatch none 0.1)
-		(priority 30009)
+		(priority 30011)
 		(attr
 			(teardrop
 				(type padvia)
@@ -7008,45 +6986,6 @@
 				(xy 146.460682 80.439591) (xy 146.454179 80.445746) (xy 146.445227 80.4455) (xy 146.439318 80.439591)
 				(xy 146.163323 79.821861) (xy 146.162972 79.813194) (xy 146.297245 79.432806) (xy 146.30323 79.426145)
 				(xy 146.308278 79.425) (xy 146.591722 79.425)
-			)
-		)
-	)
-	(zone
-		(net 93)
-		(net_name "Net-(D1-A)")
-		(layer "F.Cu")
-		(uuid "556927e4-1647-0506-2a31-98e612b09c95")
-		(name "$teardrop_padvia$")
-		(hatch none 0.1)
-		(priority 30007)
-		(attr
-			(teardrop
-				(type padvia)
-			)
-		)
-		(connect_pads yes
-			(clearance 0)
-		)
-		(min_thickness 0.0254)
-		(filled_areas_thickness no)
-		(fill yes
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-			(island_removal_mode 1)
-			(island_area_min 10)
-		)
-		(polygon
-			(pts
-				(xy 176.912499 97.65) (xy 176.912499 97.35) (xy 176.199999 96.7875) (xy 175.4865 97.5) (xy 176.2 98.2125)
-			)
-		)
-		(filled_polygon
-			(layer "F.Cu")
-			(pts
-				(xy 176.208158 96.793941) (xy 176.908049 97.346487) (xy 176.912419 97.354302) (xy 176.912499 97.355669)
-				(xy 176.912499 97.64433) (xy 176.909072 97.652603) (xy 176.908049 97.653513) (xy 176.20816 98.206057)
-				(xy 176.199543 98.208494) (xy 176.192643 98.205153) (xy 175.49479 97.508278) (xy 175.491357 97.500007)
-				(xy 175.494776 97.491734) (xy 176.192643 96.794845) (xy 176.200917 96.791425)
 			)
 		)
 	)
@@ -7137,7 +7076,7 @@
 		(uuid "6f2886d0-84b8-0698-3a54-e19d84fd39ab")
 		(name "$teardrop_padvia$")
 		(hatch none 0.1)
-		(priority 30012)
+		(priority 30009)
 		(attr
 			(teardrop
 				(type padvia)
@@ -7255,7 +7194,7 @@
 		(uuid "8b0403bd-c486-0dd7-1895-ec5beb4f8db3")
 		(name "$teardrop_padvia$")
 		(hatch none 0.1)
-		(priority 30010)
+		(priority 30012)
 		(attr
 			(teardrop
 				(type padvia)
@@ -7333,7 +7272,7 @@
 		(uuid "c5f746f0-dec9-0985-143e-3efc364843e8")
 		(name "$teardrop_padvia$")
 		(hatch none 0.1)
-		(priority 30013)
+		(priority 30010)
 		(attr
 			(teardrop
 				(type padvia)
